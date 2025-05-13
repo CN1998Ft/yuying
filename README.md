@@ -12,4 +12,3 @@ Hello
 你好
 
 
-WOCAO
